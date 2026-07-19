@@ -10,7 +10,6 @@ C# · ASP.NET Core · NestJS · React 19 · TypeScript · Vue 3 · WPF · Postgr
 
 ## Highlights
 
-- **[WikiBase](https://github.com/DmitriyOT/WikiBase)** — writer's knowledge base: ASP.NET Core 8 + React 19, JWT auth, Tauri desktop app
 - **[mcp-codebase](https://github.com/DmitriyOT/mcp-codebase)** — MCP server for semantic codebase navigation (AST index for AI agents)
 - **[mcp-web-search](https://github.com/DmitriyOT/mcp-web-search)** — LLM-optimized web search MCP server with scraping, OCR, caching
 - **[Microservices-Example](https://github.com/DmitriyOT/Microservices-Example)** — .NET 8 microservices over Kafka & RabbitMQ, outbox pattern, DLX

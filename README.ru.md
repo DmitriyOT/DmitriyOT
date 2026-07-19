@@ -10,7 +10,6 @@ C# · ASP.NET Core · NestJS · React 19 · TypeScript · Vue 3 · WPF · Postgr
 
 ## Ключевые проекты
 
-- **[WikiBase](https://github.com/DmitriyOT/WikiBase)** — база знаний писателя: ASP.NET Core 8 + React 19, JWT-авторизация, десктоп на Tauri
 - **[mcp-codebase](https://github.com/DmitriyOT/mcp-codebase)** — MCP-сервер семантической навигации по кодовой базе (AST-индекс для AI-агентов)
 - **[mcp-web-search](https://github.com/DmitriyOT/mcp-web-search)** — MCP-сервер веб-поиска для LLM: скрапинг, OCR, кэширование
 - **[Microservices-Example](https://github.com/DmitriyOT/Microservices-Example)** — микросервисы на .NET 8 через Kafka и RabbitMQ, outbox pattern, DLX
